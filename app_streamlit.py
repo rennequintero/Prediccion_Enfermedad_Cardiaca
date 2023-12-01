@@ -50,7 +50,8 @@ else:
                 'Tipo': Tipo,
                 'Obesidad': Obesidad,
                 'Alcohol': Alcohol,
-                'Edad': Edad
+                'Edad': Edad,
+                
                 }
         
         # Convertimos el diccionario en un DataFrame
